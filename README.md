@@ -1,6 +1,6 @@
 # lucassimao/mongodb:3.2
 
-## To run this image, you need create folder's, here is store you data:
+## To run this image, you need create folder:
 - /volume/db
 
 ```bash
